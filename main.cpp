@@ -45,7 +45,7 @@ void maxSort(vector<int>& list){
 }
 
 // swap function
-void swap(int& a, int&b){
+void swap(int a, int b){
     /*your code here*/
 }
 
